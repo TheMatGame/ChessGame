@@ -2,7 +2,9 @@
 # Chess Game
 
 This project consists of a simple Chess game to play 1 vs 1 on the same computer. It was made with C++ and SFML.
-![image](https://github.com/TheMatGame/ChessGame/assets/167245576/d27712de-00a5-4977-8775-206f1ba8a95c)
+
+<img src="[image.png](https://github.com/TheMatGame/ChessGame/assets/167245576/d27712de-00a5-4977-8775-206f1ba8a95c)" width="200" height="100">
+![image]()
 
 ## Info
 
